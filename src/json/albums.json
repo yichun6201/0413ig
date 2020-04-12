@@ -1,0 +1,121 @@
+{
+
+   "albumtitle":[
+      {
+      "titleimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1200px-Instagram_logo.svg.png"
+      }
+   ],
+   "albumList": [
+      {
+      "title": "chxrry.pie",
+      "image": "https://i.imgur.com/N14m63y.png",
+      "thumbnail_image": "https://i.imgur.com/GElNYx1.png",
+      "more_image": "https://i.imgur.com/gDgkN97.png",
+      "like_image":"https://i.imgur.com/dPbFwIc.png",
+      "massage_image":"https://i.imgur.com/3NIcdpi.png",
+      "share2_image":"https://i.imgur.com/iDHUgF1.png",
+      "collect_image": "https://i.imgur.com/qAXMrDg.png",
+      "likes":"23,720 likes",
+      "content1":"chxrry.pie",
+      "content2":"chexrrypie X daniel wellington🐱💛💛💛"
+      },
+
+      {
+         "title": "tsaigrayyy",
+         "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2019/11/28/99/7123038.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=1050",
+         "thumbnail_image": "https://i.imgur.com/YCLQWbj.png",
+         "more_image": "https://i.imgur.com/gDgkN97.png",
+         "like_image":"https://i.imgur.com/dPbFwIc.png",
+         "massage_image":"https://i.imgur.com/3NIcdpi.png",
+         "share2_image":"https://i.imgur.com/iDHUgF1.png",
+         "collect_image": "https://i.imgur.com/qAXMrDg.png",
+         "likes":"23,720 likes",
+         "content1":"tsaigrayyy",
+         "content2":"菜桃阿貴貴👶🏻💙"
+      },
+
+      {
+         "title": "cokoco.cat",
+         "url": "https://www.amazon.com/Speak-Now-Taylor-Swift/dp/B003WTE886",
+         "image": "https://i.imgur.com/4tBimib.png",
+         "thumbnail_image": "https://i.imgur.com/pMOL7pr.png",
+         "more_image": "https://i.imgur.com/gDgkN97.png",
+         "like_image":"https://i.imgur.com/ZxaemGr.png",
+         "massage_image":"https://i.imgur.com/3NIcdpi.png",
+         "share2_image":"https://i.imgur.com/iDHUgF1.png",
+         "collect_image": "https://i.imgur.com/qAXMrDg.png",
+         "likes":"23,720 likes",
+         "content1":"cokoco.cat",   
+         "content2":"臭諾米🐈🐾🐾🐾🐾"
+      }
+   ],
+   "detailList":[
+      {
+        "search":"https://i.imgur.com/26W2uRk.png"
+      }, 
+      {
+        "avatar":"https://i.imgur.com/kzsCf5n.png",
+        "name":"if_i_gaia",
+        "message_a":"Active 2h ago",
+        "camera":"https://i.imgur.com/6HPtUhZ.png"
+      },
+      {
+         "avatar":"https://i.imgur.com/Id1IjwD.png",
+         "name":"realeragonlin",
+         "message_b":"2 new messages • 1d",
+         "point":"https://i.imgur.com/jDdMfOg.png",
+         "camera":"https://i.imgur.com/bKJX0gf.png"
+      },
+      {
+         "avatar":"https://i.imgur.com/UxX0JzW.png",
+         "name":"ping_ling_chen",
+         "message_a":"(⁎⁍̴̛ᴗ⁍̴̛⁎) • 3w",
+         "camera":"https://i.imgur.com/6HPtUhZ.png"
+       },
+       {
+         "avatar":"https://i.imgur.com/8BiVg5n.png",
+         "name":"kenny84ni",
+         "message_a":"Active 2h ago",
+         "camera":"https://i.imgur.com/6HPtUhZ.png"
+       },
+       {
+         "avatar":"https://i.imgur.com/SAn7Cmu.png",
+         "name":"mt_625625",
+         "message_a":"Active 3m ago",
+         "camera":"https://i.imgur.com/6HPtUhZ.png"
+       },
+       {
+         "avatar":"https://i.imgur.com/9YhPMIW.png",
+         "name":"__jiayanbar",
+         "message_b":"好啊😆• 1w",
+         "point":"https://i.imgur.com/jDdMfOg.png",
+         "camera":"https://i.imgur.com/bKJX0gf.png"
+      },
+      {
+         "avatar":"https://i.imgur.com/HLusxsz.png",
+         "name":"huohcl",
+         "message_a":"沒錯 • 9w",
+         "camera":"https://i.imgur.com/6HPtUhZ.png"
+      },
+      {
+         "avatar":"https://i.imgur.com/rXRYgFK.png",
+         "name":"yuhsuanya",
+         "message_a":"Active 47m ago",
+         "camera":"https://i.imgur.com/6HPtUhZ.png"
+      },
+      {
+         "avatar":"https://i.imgur.com/RUBDX7y.png",
+         "name":"yc_0162",
+         "message_b":"說一則訊息讚 • 1w",
+         "point":"https://i.imgur.com/jDdMfOg.png",
+         "camera":"https://i.imgur.com/bKJX0gf.png"
+      },
+      {
+         "avatar":"https://i.imgur.com/9JX99Mz.png",
+         "name":"sofaraway87",
+         "message_b":"2 new messages • 5w",
+         "point":"https://i.imgur.com/jDdMfOg.png",
+         "camera":"https://i.imgur.com/bKJX0gf.png"
+      }
+   ]
+}
